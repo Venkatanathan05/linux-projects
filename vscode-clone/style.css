@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 20%;
+    text-align: end;
+}
+
+.menu {
+    width: 40%;
+    padding: 0px;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+ul li {
+    list-style: none;
+}
+
+.search {
+    width: 30%;
+    padding-left: 150px;
+}
